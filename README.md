@@ -1,7 +1,10 @@
 # ProjetoIndividualM4
 Projeto proposto pela Resilia, simulando a modelagem de um banco de dados para o curso.
 
-![projm4 (2)](https://user-images.githubusercontent.com/113363939/212580044-8f576e12-acb5-46bc-88e1-8178694c9cd8.jpg)
+
+![ProjIndividualM4](https://user-images.githubusercontent.com/113363939/212580925-375887b7-d5c7-4545-9497-48bd743cd766.png)
+
+
 
 Existem outras entidades além destas 3?
 Podem existir, como: 
