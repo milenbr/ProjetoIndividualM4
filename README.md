@@ -2,7 +2,9 @@
 Projeto proposto pela Resilia, simulando a modelagem de um banco de dados para o curso.
 
 
-![ProjIndividualM4](https://user-images.githubusercontent.com/113363939/212580925-375887b7-d5c7-4545-9497-48bd743cd766.png)
+
+![proj](https://user-images.githubusercontent.com/113363939/212583543-088bc6cf-5229-4411-b04a-1d4d10896933.png)
+
 
 
 
