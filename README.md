@@ -10,8 +10,8 @@ Podem existir, como:
 - Pagamento - constando dados de pagamento a serem feitos aos facilitadores
 
 Quais são os principais campos e tipos?
-Os principais campos seguem sendo o de nome, turmas e unidades, por serem os mais utilizados e relacionados.
+- Os principais campos seguem sendo o de nome, turmas e unidades, por serem os mais utilizados e relacionados.
 
 Como estas entidades estão relacionadas?
-Assim como exposto no diagrama, algumas entidades seguem relacionadas e expostas entre si.
+- Assim como exposto no diagrama, algumas entidades seguem relacionadas e expostas entre si.
 Como turma e curso, turma e facilitadores, facilitadores e curso, alunos e turma, entre outros.
